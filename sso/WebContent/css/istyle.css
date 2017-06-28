@@ -1,0 +1,7 @@
+/*
+ * Login
+ */
+.loginbg{ background:#dedee2; }
+.login-img{ background: url(../images/login-img.png) no-repeat; height:222px; width:607px; margin:0px auto; margin-top:199px;}
+.gplusbtn{ padding-left:222px; padding-top:109px;}
+.gplusbtn:hover{ opacity:0.9;}
